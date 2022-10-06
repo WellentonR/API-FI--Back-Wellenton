@@ -1,5 +1,5 @@
 ############################################################
-#### #PROJETO DE BACKEND DE SISTEMA DE CONTROLE DE METAS ####
+#PROJETO DE BACKEND DE SISTEMA DE CONTROLE DE METAS ####
 ############################################################
 ############################################################
 #### Autor: Wellenton R. de Araujo #########################
