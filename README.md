@@ -13,4 +13,8 @@ A API-Forntend deverá informar dados de usuários como "Nome", "Email" e
 "Data de Nacimento" para uma tabela de usuário, e também "Nome", 
 "Dinheiro Salvo" e "Valor de Meta" para a tabela secundário.
 
+<<<<<<< HEAD
 #################################################################
+=======
+#################################################################
+>>>>>>> 5f51b8e26c337901ac57080c08e0cd0cab8340cb
